@@ -1,4 +1,4 @@
-# cut-url
+# Easy url shortener.
 
 🇪🇸 Módulos requeridos.
 
