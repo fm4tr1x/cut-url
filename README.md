@@ -1,6 +1,4 @@
 # cut-url
-cut-url
-CUT-URL
 
 🇪🇸 Módulos requeridos.
 
